@@ -1,0 +1,12 @@
+# Dependencies (none required, but in case a server tool is added)
+node_modules/
+
+# Editor / OS noise
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# Exported artwork
+*.png
+!assets/*.svg

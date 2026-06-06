@@ -1,0 +1,12 @@
+{
+  "name": "wisp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A generative-art studio. Paint with flow fields; export the drift.",
+  "scripts": {
+    "dev": "npx --yes serve .",
+    "start": "npx --yes serve ."
+  },
+  "license": "MIT"
+}
